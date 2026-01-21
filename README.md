@@ -15,14 +15,19 @@ Forecasting demand helps reduce overstocking and understocking and improves fulf
 ### Results
 - MAE ≈ 27 units
 - Key predictors: Retail Sales, Retail Transfers, Item Type, Seasonality
+- Retail sales and transfers emerged as strong leading indicators of warehouse demand, aligning with real-world inventory planning logic.
 
 ### Model Insights
 
 **Actual vs Predicted Demand**
 ![Actual vs Predicted](actual_vs_predicted.png)
 
+
+
 **Top Demand Drivers**
 ![Feature Importance](feature_importance.png)
+
+
 
 
 ### Tech Stack
