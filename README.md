@@ -16,5 +16,14 @@ Forecasting demand helps reduce overstocking and understocking and improves fulf
 - MAE ≈ 27 units
 - Key predictors: Retail Sales, Retail Transfers, Item Type, Seasonality
 
+### Model Insights
+
+**Actual vs Predicted Demand**
+![Actual vs Predicted](actual_vs_predicted.png)
+
+**Top Demand Drivers**
+![Feature Importance](feature_importance.png)
+
+
 ### Tech Stack
 Python, Pandas, Scikit-learn, Random Forest, Matplotlib
