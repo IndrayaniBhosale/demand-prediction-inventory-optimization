@@ -30,5 +30,3 @@ Forecasting demand helps reduce overstocking and understocking and improves fulf
 
 
 
-### Tech Stack
-Python, Pandas, Scikit-learn, Random Forest, Matplotlib
